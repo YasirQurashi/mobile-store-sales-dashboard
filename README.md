@@ -22,7 +22,7 @@ across 4 cities in Pakistan with dynamic filters.
 - Conditional Formatting
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ## 💡 Key Insights
 - Vivo and Redmi are top-performing products (7M each)
